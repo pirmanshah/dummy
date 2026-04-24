@@ -1,14 +1,8 @@
 {
-      "data": [
-            {
+
                   "description": "PP Talc Sample ZX-100 AA1234X",
                   "grade": "ZX-100",
                   "color": "BLUE",
                   "colorCode": "AA1234X",
-                  "lot": "24AB56789",
-                  "qty": "100",
-                  "machine": "2A",
-                  "bagNumber": "BAG-01"
-            }
-      ]
+                  "lot": "24AB56789"
 }
