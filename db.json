@@ -1,6 +1,7 @@
 {
-  "data": {
-    "24AB56789": {
+  "data": [
+    {
+      "id": "24AB56789",
       "description": "PP Talc Sample ZX-100 AA1234X",
       "grade": "ZX-100",
       "color": "BLUE",
@@ -10,5 +11,5 @@
       "machine": "2A",
       "bagNumber": "BAG-01"
     }
-  }
+  ]
 }
