@@ -1,6 +1,6 @@
 {
-  "data": [
-    {
+  "data": {
+    "24AB56789": {
       "description": "PP Talc Sample ZX-100 AA1234X",
       "grade": "ZX-100",
       "color": "BLUE",
@@ -9,96 +9,6 @@
       "qty": "100",
       "machine": "2A",
       "bagNumber": "BAG-01"
-    },
-    {
-      "description": "PP Talc Sample ZX-200 BB5678Y",
-      "grade": "ZX-200",
-      "color": "RED",
-      "colorCode": "BB5678Y",
-      "lot": "24CD67890",
-      "qty": "120",
-      "machine": "2B",
-      "bagNumber": "BAG-02"
-    },
-    {
-      "description": "PP Talc Sample ZX-300 CC9012Z",
-      "grade": "ZX-300",
-      "color": "GREEN",
-      "colorCode": "CC9012Z",
-      "lot": "24EF78901",
-      "qty": "90",
-      "machine": "3A",
-      "bagNumber": "BAG-03"
-    },
-    {
-      "description": "PP Talc Sample ZX-400 DD3456A",
-      "grade": "ZX-400",
-      "color": "YELLOW",
-      "colorCode": "DD3456A",
-      "lot": "24GH89012",
-      "qty": "110",
-      "machine": "3B",
-      "bagNumber": "BAG-04"
-    },
-    {
-      "description": "PP Talc Sample ZX-500 EE7890B",
-      "grade": "ZX-500",
-      "color": "BLACK",
-      "colorCode": "EE7890B",
-      "lot": "24IJ90123",
-      "qty": "95",
-      "machine": "4A",
-      "bagNumber": "BAG-05"
-    },
-    {
-      "description": "PP Talc Sample ZX-600 FF1234C",
-      "grade": "ZX-600",
-      "color": "WHITE",
-      "colorCode": "FF1234C",
-      "lot": "24KL01234",
-      "qty": "130",
-      "machine": "4B",
-      "bagNumber": "BAG-06"
-    },
-    {
-      "description": "PP Talc Sample ZX-700 GG5678D",
-      "grade": "ZX-700",
-      "color": "ORANGE",
-      "colorCode": "GG5678D",
-      "lot": "24MN12345",
-      "qty": "85",
-      "machine": "5A",
-      "bagNumber": "BAG-07"
-    },
-    {
-      "description": "PP Talc Sample ZX-800 HH9012E",
-      "grade": "ZX-800",
-      "color": "PURPLE",
-      "colorCode": "HH9012E",
-      "lot": "24OP23456",
-      "qty": "140",
-      "machine": "5B",
-      "bagNumber": "BAG-08"
-    },
-    {
-      "description": "PP Talc Sample ZX-900 II3456F",
-      "grade": "ZX-900",
-      "color": "GREY",
-      "colorCode": "II3456F",
-      "lot": "24QR34567",
-      "qty": "105",
-      "machine": "6A",
-      "bagNumber": "BAG-09"
-    },
-    {
-      "description": "PP Talc Sample ZX-1000 JJ7890G",
-      "grade": "ZX-1000",
-      "color": "BROWN",
-      "colorCode": "JJ7890G",
-      "lot": "24ST45678",
-      "qty": "115",
-      "machine": "6B",
-      "bagNumber": "BAG-10"
     }
-  ]
+  }
 }
